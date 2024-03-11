@@ -1,5 +1,9 @@
 1. young
 2. yongyong
 3. test 
+<<<<<<< HEAD
 4. dev branch test
 5. ㅎㅎㅎ
+=======
+4. dev branch test
+>>>>>>> 28c03545f093e4a2f6fbd13088b1df8959d1d8ee
